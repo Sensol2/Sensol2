@@ -1,7 +1,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSensol2&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### Hello World! 👋
+### Hell, World! 👋
 이것저것 공부하는 대학생입니다
 
 ⭐My Portfolio: [Link](https://www.notion.so/Jaesang-Han-624a83818b5945ac8fe622106b15e7f5)
