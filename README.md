@@ -24,7 +24,10 @@ C, C#, Python을 자신있게 다루는 편이며, 알고리즘 문제 풀이에
 ##
 ### ✔ Check out my projects
 [Link](https://www.notion.so/Jaesang-Han-624a83818b5945ac8fe622106b15e7f5)
-  
+
+### ⬆️ 더 재미있는 버전
+[Link](https://sensol2.github.io/My_Portfolio_World/)
+
 ##
   
 ### 🔥 Tech Stacks
